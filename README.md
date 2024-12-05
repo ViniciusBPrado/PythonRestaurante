@@ -1,2 +1,2 @@
 # PythonRestaurante
-Programa de restaurante, cadastro, altração e inserção de dados
+Programa de restaurante, cadastro, alteração e inserção de dados
